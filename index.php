@@ -92,7 +92,7 @@ CHANGE THE ADDRESS!!! This is created on my machine lol
             .colophon
           </div>
           <p>
-            Created by <a href="#">Chad Trikyas Mooney</a>
+            Created by <a href="https://github.com/trikyas">Chad Trikyas Mooney</a>
             <br />
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
           </p>
